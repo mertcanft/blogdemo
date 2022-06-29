@@ -1,5 +1,6 @@
 import React from "react";
 import "./styles.css";
+import { InstagramIcon } from "../../icons";
 
 const Header = () => (
   <header className="home-header">
